@@ -1,0 +1,4 @@
+--[[
+open src script (creds to:https://scriptblox.com/script/Universal-Script-Fake-ban-29718)
+--]]
+local fakeban = "You have been permanently banned." game.Players.LocalPlayer:Kick(fakeban)
